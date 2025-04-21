@@ -18,7 +18,7 @@ Clean and preprocess a raw sales dataset using **Microsoft Excel** by handling m
 7. **Added a new derived column** – `region` based on the country (e.g., Europe, North America, Asia).
 
 ## Files Included:
-- `cleaned_enhanced_sales_data.xlsx` – Final cleaned and enriched dataset using Excel
+- `sales_data.xlsx` – Final cleaned and enriched dataset using Excel
 
 ## Notes:
 This task was completed as part of a Data Analyst Internship to demonstrate hands-on data cleaning skills using Excel without any code. All transformations were performed manually using Excel formulas and tools.
